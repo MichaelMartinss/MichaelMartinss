@@ -5,6 +5,14 @@ I also have knowledge in Database Modeling.</p>
 
 ## 
 
+ <div>
+  <a href="https://github.com/MichaelMartinss">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MichaelMartinss&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMartinss&layout=compact&langs_count=16&theme=highcontrast"/>
+</div>
+
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Michael-Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Michael-Ionic" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg">
@@ -19,22 +27,13 @@ I also have knowledge in Database Modeling.</p>
  
   ##
 
-  <h3 align="left">Some stats....</h3>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=MichaelMartinss" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=MichaelMartinss" height="150" alt="languages graph"  />
-</div>
-
-##
   <h3 align="left">Social network </h3>
 
 <div> 
   
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:michael.o.silvamartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/michael-oliveira-silva-martins-5b8a6917b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/michael-oliveira-silva-martins-5b8a6917b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   
+  target="_blank"></a> 
   
 </div>
